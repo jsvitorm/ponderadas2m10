@@ -1,4 +1,4 @@
-# ponderadas2m10# Guia Completo: Backstage com Docker
+# Backstage com Docker
 
 ## O que é o Backstage?
 
@@ -136,7 +136,7 @@ Agora que o Backstage está configurado, vamos construir e rodar a aplicação e
 
 ---
 
-## Conclusão
+# Conclusão
 
  Backstage facilita a centralização de ferramentas e a organização de serviços dentro de uma empresa, promovendo maior eficiência e colaboração entre equipes de desenvolvimento. Além disso, vimos como o Docker, ao criar uma imagem da aplicação Backstage, proporciona uma maneira consistente e confiável de executar o portal em qualquer ambiente.
 
